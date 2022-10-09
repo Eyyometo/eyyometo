@@ -14,6 +14,13 @@ I am currently a student at Bartın University and I am improving myself. I live
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/eyyometo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/eyyometo?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/eyyometo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/reelmeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mustafakoca99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafakoca99" height="30" width="40" /></a>
+<a href="https://instagram.com/eyyometo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="mustafakoca99" height="30" width="40" /></a>
+<a href="https://www.facebook.com/eyyometo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+</p>
    </p>
 
 ---
