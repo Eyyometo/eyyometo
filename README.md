@@ -22,6 +22,7 @@ I am currently a student at Bartın University and I am improving myself. I live
 <a href="https://www.facebook.com/eyyometo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 - 🔭 I am currently working in every field, trying to improve myself
+<br>
 - 🌱 I am currently learning C# and game devolopment
    </p>
 
