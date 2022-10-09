@@ -17,8 +17,7 @@ I love learning, To do sport, watch movie, and software.
 - 🔭 I am currently working in every field, trying to improve myself
 - 🌱 I am currently learning C# and game devolopment
 - 🤔 youtube: [MetinMertBiyikogluYoutube](https://www.youtube.com/channel/UCU68Y7jGrzC5NSJT5ybcFxA)
-- 📫 Forex Free Signal: [KAHIN_SIGNAL_SOFTWARE](https://t.me/KahinFreeSignals)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakoca99&show_icons=true&locale=en&layout=compact" alt="mustafakoca99" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyyometo&show_icons=true&locale=en&layout=compact" alt="eyyometo" /> </p>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=eyyometo&show_icons=true&theme=gradient)
