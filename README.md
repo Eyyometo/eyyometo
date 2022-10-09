@@ -4,7 +4,7 @@
 
 C, C++, C# Python, Java(basic degree), Html5+, Css3+, PHP(basic degree), Python softwares,3D Unity and moderately familiar with all adobe programs.
 
-Database; I have knowledge of SQLServer, MySQL, MSAccess management and design.
+Database; I have knowledge of SQLServer, MySQL, MSAccess management and design. I am also interested in adobe animate.
 
 I love learning, To do sport, watch movie, and software.
 
