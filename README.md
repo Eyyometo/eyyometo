@@ -1,6 +1,6 @@
 # 🏄‍♂️ Metin Mert Bıyıkoğlu
 
-**`Digital Craftsman (Developer/Athlete/Creator)`**
+**`(Developer/Athlete/Creator)`**
 
 C, C++, C# Python, Java(basic degree), Html5+, Css3+, PHP(basic degree), Python softwares,3D Unity and moderately familiar with all adobe programs.
 
