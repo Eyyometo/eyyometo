@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Software, Game development, database and I'm working on AR and VR.
 
-C, C++, C# Python, Java(basic degree), Html5+, Css3+, JavaScript, PHP, Python softwares, Unity and moderately familiar with all adobe programs.
+C, C++, C# Python, Java(basic degree), Html5+, Css3+, PHP(basic degree), Python softwares,3D Unity and moderately familiar with all adobe programs.
 
 Database; I have knowledge of SQLServer, MySQL, MSAccess management and design.
 
@@ -10,7 +10,7 @@ I love learning, To do sport, watch movie, and software.
 <p align="left">
 <a href="https://twitter.com/reelmeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="mustafaakocaa99" height="30" width="40" /></a>
 <a href="https://tr.linkedin.com/in/metin-mert-b%C4%B1y%C4%B1ko%C4%9Flu-3105a0213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafakoca99" height="30" width="40" /></a>
-<a href="https://instagram.com/mustafakoca99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="mustafakoca99" height="30" width="40" /></a>
+<a href="https://instagram.com/eyyometo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="mustafakoca99" height="30" width="40" /></a>
 </p>
 
 - 🔭 I am currently working in every field, trying to improve myself
