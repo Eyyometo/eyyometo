@@ -2,9 +2,9 @@
 
 **`(Developer/Athlete/Creator)`**
 
-C, C++, C# Python(basic degree), Java(basic degree), Html5+, Css3+, PHP(basic degree), 3D Unity and moderately familiar with all adobe programs.
+C, C++, C# Python(basic degree), Java(basic degree), Html, Css3+, PHP(basic degree), 3D Unity and moderately familiar with all adobe programs.
 
-Database; I have knowledge of SQLServer, MySQL, MSAccess management and design. I am also interested in adobe animate.
+Database; I have knowledge of SQLServer, MSsql management and design. I am also interested in adobe animate.
 
 I love learning, To do sport, watch movie, and software.
 
